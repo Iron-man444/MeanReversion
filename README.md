@@ -45,5 +45,8 @@ The EA is highly customizable through its input parameters, which are divided in
 *Disclaimer: This Expert Advisor is provided for educational and experimental purposes. Always forward-test on a demo account before risking real capital.*
 
 
+<img width="1900" height="556" alt="Screenshot 2026-05-07 025621" src="https://github.com/user-attachments/assets/c930d48f-56d6-4b94-aa18-5bcdfc10a16d" />
 
-<img width="1224" height="632" alt="Screenshot 2026-05-07 030014" src="https://github.com/user-attachments/assets/9d6425ed-9094-4c5e-9ad2-8f9518e9def2" />
+
+
+<img width="1000" height="500" alt="Screenshot 2026-05-07 030014" src="https://github.com/user-attachments/assets/9d6425ed-9094-4c5e-9ad2-8f9518e9def2" />
