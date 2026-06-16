@@ -50,3 +50,17 @@ The EA is highly customizable through its input parameters, which are divided in
 
 
 <img width="1000" height="500" alt="Screenshot 2026-05-07 030014" src="https://github.com/user-attachments/assets/9d6425ed-9094-4c5e-9ad2-8f9518e9def2" />
+
+LIVE RESULTS OF mean.ex5  05-28 TO 06-16
+
+<img width="1337" height="816" alt="image" src="https://github.com/user-attachments/assets/38c78d03-377e-4343-b6c5-30864fd9c6da" />
+<img width="1898" height="857" alt="image" src="https://github.com/user-attachments/assets/e4dc3768-49f8-46de-939b-20420a3de03e" />
+
+WITH THAT SETTINGS
+
+<img width="902" height="551" alt="image" src="https://github.com/user-attachments/assets/cc7b3198-f0e9-46bd-9874-1bcc77cba31b" />
+
+
+
+
+
